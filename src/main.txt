@@ -1,0 +1,8 @@
+npm install react-day-picker
+npm install react-icons  
+npm install sass   
+npm install @material-ui/icons
+npm install @material-ui/core  
+npm install date-fns
+
+dateFnsFormat net pe nhi
